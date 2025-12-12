@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/kavyaajin16/PINN-LiteNet/blob/main/PINN_LiteNet.ipynb)
+
 # PINN-LiteNet
 
 This project implements a Physics-Informed Neural Network (PINN) to solve
