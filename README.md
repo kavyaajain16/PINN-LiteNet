@@ -1,5 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/kavyaajin16/PINN-LiteNet/blob/main/PINN_LiteNet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kavyaajin16/PINN
+LiteNet/blob/main/PINN_LiteNet.ipynb)
 
 # PINN-LiteNet
 
